@@ -24,6 +24,7 @@ By deploying to `/usr/bin`, the program can be invoked using sudo, which in the 
 
 ## Files
 | Name | Deployed Name | Description |
+---|---|---
 | py_src_run.sh | run.sh | Backend invocation script. No modification required |
 | make_mod_exe.sh | (same) | script for generating executable. No modification required |
 | pyinit.sh | (same) | script to set up python environment. Configuration is required |
